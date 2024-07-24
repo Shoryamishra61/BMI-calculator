@@ -1,4 +1,4 @@
-[17/11/2023, 10:31 pm] Harshit Paaji Clsmmate: <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
